@@ -6,6 +6,10 @@ The topic that this project will be focusing on is public opinion on the legaliz
 
 Our group subsetted the original data to only include the variables necessary for our analysis. The link to our full data dictionary can be found here: [Data Dictionary](/DATA/Data_Dictionary.md)
 
+Our initial stance was that among the variables shown in our data dictionary, religion would be the top factor in influencing the public opinion on abortion. However, after our exploratory analysis, we discovered that there were other factors that were causing relevant correlations. The updated hypothesis for our project is as follows: **While _religion_ is a significant factor influencing public opinion on legalizing abortion, _political affiliation_ and _age_ are also crucial determinants. The interplay between these variables may provide a more comprehensive understanding of the public's stance on abortion.** 
+
+This project overall is targeted towards campaigners so they can better understand voter habits and be effective in their campaigns.
+
 ## Section 1: Software and Platform
 For this project, our group attempted to download the R3 data directly from the GSS website. However, the only file formats available were SAS, STATA, and SPSS. None of the three file formats were conducive to our Python script, which we were working on using Google Colab. To readjust, we downloaded the text data into a `.csv` format from a separate GitHub repository.
 
