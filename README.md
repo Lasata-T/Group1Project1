@@ -1,4 +1,5 @@
 # Group1Project1
+Group Members: Katherine Driebe (kad5fwz), Ramya Tangirala (rt4an), and Lasata Tuladhar (lt9vx)
 ## Section 1: Software and Platform
 For this project, our group attempted to download the R3 data directly from the GSS website. However, the only file formats available were SAS, STATA, and SPSS. None of the three file formats were conducive to our Python script, which we were working on using Google Colab. To readjust, we downloaded the text data into a `.csv` format from a separate GitHub repository.
 
